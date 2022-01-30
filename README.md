@@ -23,7 +23,7 @@ on a direct-connect P2P architecture.
 
    - [LOIC](https://en.wikipedia.org/wiki/Low_Orbit_Ion_Cannon)
 
-   - [LORIS](https://en.wikipedia.org/wiki/Slowloris_(software))
+   - [LORIS](https://en.wikipedia.org/wiki/Slowloris)(software)
 
    - [UFOSYN](https://en.wikipedia.org/wiki/SYN_flood)
 
@@ -31,9 +31,9 @@ on a direct-connect P2P architecture.
 
    - [UFORST](https://ddos-guard.net/en/terminology/attack_type/rst-or-fin-flood)
 
-   - [SPRAY](https://en.wikipedia.org/wiki/DRDOS
+   - [SPRAY](https://en.wikipedia.org/wiki/DRDOS)
 
-   - [SMURF](https://en.wikipedia.org/wiki/Smurf_attack
+   - [SMURF](https://en.wikipedia.org/wiki/Smurf_attack)
 
    - [XMAS](https://en.wikipedia.org/wiki/Christmas_tree_packet)
 
@@ -91,16 +91,16 @@ on a direct-connect P2P architecture.
 
 ####  Source libs:
 
-   * Python: https://www.python.org/downloads/
-   * PyCurl: http://pycurl.sourceforge.net/
-   * GeoIP: https://pypi.python.org/pypi/GeoIP/
-   * Python-geoip: https://pypi.org/project/python-geoip/
-   * Pygeoip: https://pypi.org/project/pygeoip/
-   * Whois: https://pypi.python.org/pypi/whois
-   * PyCrypto: https://pypi.python.org/pypi/pycrypto
-   * PyRequests: https://pypi.python.org/pypi/requests
-   * Scapy-Python3: https://pypi.org/project/scapy-python3/
-   * Leaflet: http://leafletjs.com/ (provided)
+   * [Python]((https://www.python.org/downloads/)
+   * [PyCurl](http://pycurl.sourceforge.net/)
+   * [GeoIP](https://pypi.python.org/pypi/GeoIP/)
+   * [Python-geoip](https://pypi.org/project/python-geoip/)
+   * [Pygeoip](https://pypi.org/project/pygeoip/)
+   * [Whois](https://pypi.python.org/pypi/whois)
+   * [PyCrypto](https://pypi.python.org/pypi/pycrypto)
+   * [PyRequests](https://pypi.python.org/pypi/requests)
+   * [Scapy-Python3](https://pypi.org/project/scapy-python3/)
+   * Leaflet](http://leafletjs.com/) (provided)
 
 ----------
 
