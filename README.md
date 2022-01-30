@@ -23,7 +23,7 @@ on a direct-connect P2P architecture.
 
    - [LOIC](https://en.wikipedia.org/wiki/Low_Orbit_Ion_Cannon)
 
-   - [LORIS](https://en.wikipedia.org/wiki/Slowloris)(software)
+   - [LORIS](https://en.wikipedia.org/wiki/Slowloris) (software)
 
    - [UFOSYN](https://en.wikipedia.org/wiki/SYN_flood)
 
@@ -100,7 +100,7 @@ on a direct-connect P2P architecture.
    * [PyCrypto](https://pypi.python.org/pypi/pycrypto)
    * [PyRequests](https://pypi.python.org/pypi/requests)
    * [Scapy-Python3](https://pypi.org/project/scapy-python3/)
-   * Leaflet](http://leafletjs.com/) (provided)
+   * [Leaflet](http://leafletjs.com/) (provided)
 
 ----------
 
