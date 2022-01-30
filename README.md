@@ -91,7 +91,7 @@ on a direct-connect P2P architecture.
 
 ####  Source libs:
 
-   * [Python]((https://www.python.org/downloads/)
+   * [Python](https://www.python.org/downloads/)
    * [PyCurl](http://pycurl.sourceforge.net/)
    * [GeoIP](https://pypi.python.org/pypi/GeoIP/)
    * [Python-geoip](https://pypi.org/project/python-geoip/)
