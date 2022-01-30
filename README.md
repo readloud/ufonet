@@ -1,9 +1,7 @@
   ![UFONet](https://ufonet.03c8.net/ufonet/ufonet-multiverse-welcome_small.png "UFONet Welcome")
 
 ----------
-Full Version (updated!) online:
- + Website:   https://ufonet.03c8.net
-
+Full Version (updated!) online: [+ Website:](https://ufonet.03c8.net)ufonet.03c8.net
 ----------
 
 #### Description:
@@ -17,8 +15,7 @@ on a direct-connect P2P architecture.
 
   See these links for more info:
 
-   - FAQ:
-     https://ufonet.03c8.net/FAQ.html
+   - [FAQ:](https://ufonet.03c8.net/FAQ.html)
 
    - CWE-601:Open Redirect: 
      https://cwe.mitre.org/data/definitions/601.html
