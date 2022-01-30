@@ -1,7 +1,7 @@
   ![UFONet](https://ufonet.03c8.net/ufonet/ufonet-multiverse-welcome_small.png "UFONet Welcome")
 
 ----------
-Full Version (updated!) online: [+ Website:](https://ufonet.03c8.net)ufonet.03c8.net
+Full Version (updated!) online: + Website : (https://ufonet.03c8.net)[ufonet.03c8.net]
 ----------
 
 #### Description:
