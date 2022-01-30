@@ -15,51 +15,45 @@ on a direct-connect P2P architecture.
 
   See these links for more info:
 
-   - [FAQ:](https://ufonet.03c8.net/FAQ.html)
+   - [FAQ](https://ufonet.03c8.net/FAQ.html)
 
-   - [CWE-601:Open Redirect:](https://cwe.mitre.org/data/definitions/601.html)
+   - [CWE-601:Open Redirect](https://cwe.mitre.org/data/definitions/601.html)
 
   ![UFONet](https://ufonet.03c8.net/ufonet/ufonet-schema.png "UFONet Schema")
 
-   - [LOIC:     https://en.wikipedia.org/wiki/Low_Orbit_Ion_Cannon
+   - [LOIC](https://en.wikipedia.org/wiki/Low_Orbit_Ion_Cannon)
 
-   - [LORIS: 
-     https://en.wikipedia.org/wiki/Slowloris_(software)
+   - [LORIS](https://en.wikipedia.org/wiki/Slowloris_(software))
 
-   - [UFOSYN: 
-     https://en.wikipedia.org/wiki/SYN_flood
+   - [UFOSYN](https://en.wikipedia.org/wiki/SYN_flood)
 
-   - [FRAGGLE: 
-     https://en.wikipedia.org/wiki/Fraggle_attack
+   - [FRAGGLE](https://en.wikipedia.org/wiki/Fraggle_attack)
 
-   - [UFORST: 
-     https://ddos-guard.net/en/terminology/attack_type/rst-or-fin-flood
+   - [UFORST](https://ddos-guard.net/en/terminology/attack_type/rst-or-fin-flood)
 
-   - [SPRAY: 
-     https://en.wikipedia.org/wiki/DRDOS
+   - [SPRAY](https://en.wikipedia.org/wiki/DRDOS
 
-   - [SMURF: 
-     https://en.wikipedia.org/wiki/Smurf_attack
+   - [SMURF](https://en.wikipedia.org/wiki/Smurf_attack
 
-   - [XMAS: (https://en.wikipedia.org/wiki/Christmas_tree_packet)
+   - [XMAS](https://en.wikipedia.org/wiki/Christmas_tree_packet)
 
-   - [DROPER:](https://en.wikipedia.org/wiki/IP_fragmentation_attack)
+   - [DROPER](https://en.wikipedia.org/wiki/IP_fragmentation_attack)
 
-   - [SNIPER: ](https://www.imperva.com/learn/application-security/snmp-reflection/)
+   - [SNIPER](https://www.imperva.com/learn/application-security/snmp-reflection/)
 
-   - [TACHYON:[(     https://www.us-cert.gov/ncas/alerts/TA13-088A)
+   - [TACHYON](https://www.us-cert.gov/ncas/alerts/TA13-088A)
 
-   - [PINGER:](     https://www.cloudflare.com/learning/ddos/ping-icmp-flood-ddos-attack/)
+   - [PINGER](https://www.cloudflare.com/learning/ddos/ping-icmp-flood-ddos-attack/)
 
-   - [MONLIST:](     https://www.us-cert.gov/ncas/alerts/TA14-013A)
+   - [MONLIST](https://www.us-cert.gov/ncas/alerts/TA14-013A)
 
-   - [UFOACK: ](     https://www.f5.com/services/resources/glossary/push-and-ack-flood)
+   - [UFOACK](https://www.f5.com/services/resources/glossary/push-and-ack-flood)
 
-   - [OVERLAP: ](     https://cyberhoot.com/cybrary/fragment-overlap-attack/)
+   - [OVERLAP](https://cyberhoot.com/cybrary/fragment-overlap-attack/)
 
-   - [UFOUDP: ](     https://en.wikipedia.org/wiki/UDP_flood_attack)
+   - [UFOUDP](https://en.wikipedia.org/wiki/UDP_flood_attack)
 
-   - [NUKE:](https://dl.packetstormsecurity.net/papers/general/tcp-starvation.pdf)
+   - [NUKE](https://dl.packetstormsecurity.net/papers/general/tcp-starvation.pdf)
 
 ----------
 
